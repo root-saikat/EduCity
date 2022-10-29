@@ -9,6 +9,7 @@ body{
     margin: 0 auto;
     font-family: 'Poppins';
     font-style: normal;
+    overflow-x: hidden;
 }
 body p, h3, ul, h2{
     margin: 0;
